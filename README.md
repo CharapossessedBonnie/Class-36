@@ -1,2 +1,2 @@
-# Class-36
-An attempt at car-racing
+# synchronousBallMovement
+Ball moving synchronously
